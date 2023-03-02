@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "name": "Fruits",
+            "items": [
+                {
+                    "name": "Banane",
+                    "imageName": "banana"
+                },
+               
+                {
+                    "name": "Pomme",
+                    "imageName": "apple"
+                },
+                {
+                    "name": "Cherries",
+                    "imageName": "cherries"
+                },
+                {
+                    "name": "Orange",
+                    "imageName": "orange"
+                },
+                {
+                    "name": "Lemon",
+                    "imageName": "lemon"
+                }
+            ]
+        },
+        {
+            "name": "Légumes",
+            "items": [
+                {
+                    "name": "Carottes",
+                    "imageName": "carrot"
+                },
+                {
+                    "name": "Brocoli",
+                    "imageName": "brocoli"
+                },
+                {
+                    "name": "Chili",
+                    "imageName": "chili"
+                },
+                {
+                    "name": "Beets",
+                    "imageName": "beets"
+                },
+                {
+                    "name": "Cucumber",
+                    "imageName": "cucumber"
+                },
+                {
+                    "name": "Eggplant",
+                    "imageName": "eggplant"
+                },
+                {
+                    "name": "Garlic",
+                    "imageName": "garlic"
+                },
+                {
+                    "name": "Salade",
+                    "imageName": "default"
+                }
+            ]
+        },
+        {
+            "name": "Conserves",
+            "items": [
+                {
+                    "name": "Haricots verts en conserve",
+                    "imageName": "default"
+                },
+                {
+                    "name": "Soupe de tomates en conserve",
+                    "imageName": "default"
+                },
+                {
+                    "name": "Thon en conserve",
+                    "imageName": "default"
+                }
+            ]
+        }
+    ]
+}
+
+
